@@ -25,8 +25,7 @@ In this project, I have created several visualizations and dashboards to explore
 ## Installation/Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/airbnb-listings-2016-tableau-project](https://github.com/abderrahmane-stack/airbnb-listings-2016-tableau-project).git
-   ```
+   git clone https://github.com/abderrahmane-stack/airbnb-listings-2016-tableau-project.git
 2. Navigate to the project directory:
    ```bash
    cd airbnb-listings-2016-tableau-project
